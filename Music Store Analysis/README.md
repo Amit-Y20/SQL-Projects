@@ -1,6 +1,6 @@
 # Music Store Analysis
 ## Project Objective
--The Music Store is an E-commerce music selling company. They wants to generate some interesting insights for 2023 so that the owner of Music Store can understand their customers, employees and sales patterns.
+The Music Store is an E-commerce music selling company. They wants to generate some interesting insights for 2023 so that the owner of Music Store can understand their customers, employees and sales patterns.
 
 ## Database and Tools
 - Postgre SQL
