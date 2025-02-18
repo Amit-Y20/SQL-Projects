@@ -58,31 +58,31 @@ customers who spent this amount
 
 ### Moderate
 1. The top 5 customers of all Rock music genre are
-   Aaron Mitchell
-   Alexander Rocha
-   Astrid Gruber
-   Bjorn Hasen
-   Camille Bernard
+   - Aaron Mitchell
+   - Alexander Rocha
+   - Astrid Gruber
+   - Bjorn Hasen
+   - Camille Bernard
 2. Led Zeppelin have written maximum Rock Songs having 114 songs in total
 3. The top 3 songs having song length larger than average song length
-   Occupation/Precipice-5286.95sec
-   Through a Looking Glass-5088.83sec
-   Greeting from Earth,Pt-1-2906.29sec
+   - Occupation/Precipice-5286.95sec
+   - Through a Looking Glass-5088.83sec
+   - Greeting from Earth,Pt-1-2906.29sec
 
 ### Hard
 1. Hugh O' Reilly have maximum spent on most popular artist Queen
 2. The most famous genre as per countries
-   Argentina- Alternate & Peak
-   Australia- Rock
-   Brazil- Rock
-   Canada- Rock
-   India- Rock
+   - Argentina- Alternate & Peak
+   - Australia- Rock
+   - Brazil- Rock
+   - Canada- Rock
+   - India- Rock
 3. The top customers as per country
-   Diego Geutierez- Argentia
-   Mark Taylor- Australia
-   Astrid Greber- Austria
-   Dran Peters- Belgium
-   Lousi Gocales- Brazil
+   - Diego Geutierez- Argentia
+   - Mark Taylor- Australia
+   - Astrid Greber- Austria
+   - Dran Peters- Belgium
+   - Lousi Gocales- Brazil
 
 ## Final Conclusion
 - To improve the employee retention rate, recognition to senior most employee Mohan Madan
