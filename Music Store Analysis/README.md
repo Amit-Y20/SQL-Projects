@@ -43,3 +43,15 @@ country. Write a query that returns the country along with the top customer and 
 much they spent. For countries where the top amount spent is shared, provide all 
 customers who spent this amount
 
+## Project Insights
+### Easy
+1. Mohan Madan, Senior General Manager at L7 posted in Edmonton, Canada is the senior most employee.
+2. The top 5 countries with most invoices are-
+   USA-131
+   Canada-76
+   Brazil-61
+   France-50
+   Germany-41
+3. The top 3 values of total invoices are- 23.76, 19.8 and 19.8
+4. Prague having all invoices of 273.24 is the city having best customers
+5. R. Madhav is the best customer spent in total $144.54
